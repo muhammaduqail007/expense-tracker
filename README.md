@@ -1,6 +1,6 @@
 # ExpenseTrack 
 
-A simple expense tracker built with Python. This is my first Python project, and I'm building it to improve my programming skills through practice.
+A simple expense tracker built with Python.I'm building it to improve my programming skills through practice.
 
 ## Features
 
